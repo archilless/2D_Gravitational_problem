@@ -2,3 +2,7 @@
 Project on Fast and Efficient Solvers (Iurii Minin and Mozhdeh Shiranirad)
 
 We solve 2D gravitational problem in the sphere. On the spherical boundary particles changes their velocities in the mirrored velocities.
+
+This project is licensed under the terms of the MIT license.
+
+license:MIT
